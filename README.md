@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I specialize in transforming data into powerful vi
 
 ## 📬 Contact Me
 - ✉️ **Email**: sundasmuner786@gmail.com  
-- 🔗 [Upwork Profile](https://www.upwork.com/freelancers/~01c5629594103d852b)  
-- 🔗 [LinkedIn](https://linkedin.com/in/sundas-muneer-ansari-a9400b324)
+- 🔗 [Upwork Profile]https://www.upwork.com/nx/find-work/most-recent
+- 🔗 [LinkedIn] https://www.linkedin.com/in/sundas-muneer-ansari-a9400b324/
 
 ---
 
